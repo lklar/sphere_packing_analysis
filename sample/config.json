@@ -1,0 +1,15 @@
+{
+    "base_path" : "packings",
+    "radius" : 0.5,
+	"ff_analysis" : {
+		"output_path" : "results/filling_factors",
+		"box_sizes" : [2, 10],
+		"hist_bin_size" : 0.001
+	},
+	"contact_analysis" : {
+		"output_path" : "results/contacts"
+	},
+	"contact_direction" : {
+		"output_path" : "results/contact_direction"
+	}
+}
